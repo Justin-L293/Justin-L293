@@ -23,4 +23,4 @@ Lightweight Bash utility for AES-256-CBC file encryption and decryption using Op
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/justinly293/)
+[LinkedIn](https://www.linkedin.com/in/justin-ly-tech/)
