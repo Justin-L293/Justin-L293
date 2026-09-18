@@ -15,9 +15,11 @@ I'm an IT and cybersecurity student focused on systems troubleshooting, networki
 - **Cybersecurity:** Penetration Testing, Vulnerability Assessment
 
 ### Featured Projects
-- **Virtualized IT & Active Directory Lab** — Windows Server, Active Directory, VMware, networking, and troubleshooting
-- **Penetration Testing & Vulnerability Assessment Lab** — Nmap, Wireshark, Responder, Metasploit, Burp Suite, BloodHound, and DVWA
-- **Cryptography Research Project** — Bash, OpenSSL, encryption/decryption
+
+### [Tyrell Penetration Testing Report](https://github.com/Justin-L293/tyrell-pentest-report)
+Full internal penetration test of a simulated enterprise network, including Active Directory exploitation, web vulnerabilities, reconnaissance, and post-exploitation techniques.
+### [File Encryption Tool](https://github.com/Justin-L293/file-encryption-tool)
+Lightweight Bash utility for AES-256-CBC file encryption and decryption using OpenSSL, featuring automatic key generation, integrity verification, and clear command-line workflows.
 
 ### Connect
 
